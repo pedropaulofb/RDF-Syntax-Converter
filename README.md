@@ -13,7 +13,7 @@ A small and simple RDF syntax converter built in Python using the RDFLib.
 
 ## Overview
 
-[RDF](https://www.w3.org/RDF/), a standard model for data interchange on the Web standardized by the [World Wide Web Consortium (W3C)](https://www.w3.org/).
+[RDF](https://www.w3.org/RDF/) is a standard model for data interchange on the Web, standardized by the [World Wide Web Consortium (W3C)](https://www.w3.org/).
 
 The following table presents the allowed input and output RDF syntaxes. I.e., the **RDF Syntax Converter** can convert from and to the following syntaxes:
 
