@@ -74,6 +74,6 @@ Every contribution is very welcomed!
 
 Problem reporting, new feature requests, questions, or ideas can be sent through this repository’s [issues section](https://github.com/pedropaulofb/RDF-Syntax-Converter/issues). Coding contributions are also accepted and can be done via the repository’s [PR section](https://github.com/pedropaulofb/RDF-Syntax-Converter/pulls).
 
-This is a free open-source project. If you use it and like it, you can buy me a coffee =)
+This is a free open-source project. If you use it and like it, you can buy me a coffee :smile:
 
 <a href="https://www.buymeacoffee.com/pedropaulofb"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=pedropaulofb&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
